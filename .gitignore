@@ -1,0 +1,6 @@
+*.cache
+*.last-run
+*.pyc
+
+SublimeREPLHistory
+Package Control.*
