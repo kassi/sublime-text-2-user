@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+{% extends "${1:base.html}" %}
+
+{% block content %}
+    <h1>${2:Headline}</h1>
+    ${3:content}
+{% endblock %}
+]]></content>
+    <tabTrigger>jinja</tabTrigger>
+    <scope>text.html</scope>
+</snippet>

@@ -1,0 +1,5 @@
+{
+    "cmd": ["yumlme -f $file"],
+    "selector": "text.yuml.activity",
+    "shell": true
+}

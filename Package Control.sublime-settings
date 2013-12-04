@@ -1,0 +1,48 @@
+{
+    "auto_upgrade_last_run": null,
+    "installed_packages":
+    [
+        "AAAPackageDev",
+        "AdvancedNewFile",
+        "Alignment",
+        "AlignTab",
+        "Auto Semi-Colon",
+        "Calculate",
+        "CoffeeCompile",
+        "CoffeeScript",
+        "ColorPick",
+        "CTags",
+        "ERB Snippets",
+        "Git",
+        "Git Status Files",
+        "GoToFile",
+        "Guard",
+        "Haml",
+        "Inline Calculator",
+        "LESS",
+        "Markdown Preview",
+        "Package Control",
+        "Phix Color Scheme",
+        "Plist Binary",
+        "Pretty JSON",
+        "Prolog",
+        "Quick File Creator",
+        "RSpec (snippets and syntax)",
+        "RSpecNavigator",
+        "RubyTest",
+        "RubyToggleString",
+        "Sass",
+        "SideBarEnhancements",
+        "SideBarGit",
+        "Sublime File Navigator",
+        "Sublime Files",
+        "SublimeTODO",
+        "Super Calculator",
+        "Theme - Soda"
+    ],
+    "repositories":
+    [
+        "https://sublime.wbond.net/prerelease/packages.json",
+        "https://sublime.wbond.net/prerelease/packages.json"
+    ]
+}
