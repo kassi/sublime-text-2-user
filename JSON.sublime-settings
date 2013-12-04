@@ -1,7 +1,7 @@
 {
-  "extensions":
-  [
-    ".sublime-commands",
-    ".sublime-settings"
-  ]
+    "extensions":
+    [
+        ".sublime-commands",
+        ".sublime-settings"
+    ]
 }
