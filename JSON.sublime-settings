@@ -3,5 +3,6 @@
     [
         ".sublime-commands",
         ".sublime-settings"
-    ]
+    ],
+    "tab_size": 4
 }
